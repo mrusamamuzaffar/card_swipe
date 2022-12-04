@@ -1,4 +1,4 @@
-# card_swipe
+# card_swipe_eye_catching - Flutter
 
 This code snippet shows a beautiful card swipe animation in Flutter. This is the power of dart+Flutter. we can customize the user interface as required.
 
